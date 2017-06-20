@@ -40,3 +40,6 @@ C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Mi
 C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.csprojResolveAssemblyReference.cache
 C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.dll
 C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.csprojResolveAssemblyReference.cache
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.pdb
