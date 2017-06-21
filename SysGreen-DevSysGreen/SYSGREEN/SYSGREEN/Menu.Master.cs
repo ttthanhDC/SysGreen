@@ -7,11 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace SYSGREEN
 {
-    public partial class SiteMaster : MasterPage
+    public partial class Menu : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+
         }
     }
 }
