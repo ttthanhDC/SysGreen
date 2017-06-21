@@ -15,7 +15,9 @@
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-		<link rel="stylesheet" href="css/datatables/datatables.css">
+		
+    
+
 </head>
 <body>
     <form runat="server">
@@ -59,12 +61,18 @@
                         <li><a runat="server" href="~/LogInPage">LogIn</a></li>
                         <li><a runat="server" href="~/C001_ListUser">C001 Danh sách tài khoản</a></li>
                         <li><a runat="server" href="~/C005_CompanyInformation">C005 Thông tin cty</a></li>
-
+                        <li><a runat="server" href="~/menu">Menu</a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="container body-content">
+           <link href="Content/bootstrap.min.css" rel="stylesheet" />
+            <link href="Content/bootstrap-table.css" rel="stylesheet" />
+            <script src="Scripts/jquery-1.10.2.min.js"></script>
+            <script src="Scripts/bootstrap.min.js"></script>
+            <script src="Scripts/bootstrap-table.js"></script>
+            <script src="Scripts/bootstrap-table-vi-VN.js"></script>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
