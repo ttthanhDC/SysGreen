@@ -10,6 +10,6 @@
 namespace SYSGREEN {
     
     
-    public partial class C001_ListUser {
+    public partial class Demo {
     }
 }

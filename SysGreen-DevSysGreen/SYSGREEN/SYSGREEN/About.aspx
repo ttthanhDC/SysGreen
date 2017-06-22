@@ -1,4 +1,4 @@
-﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="SYSGREEN.About" %>
+﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Menu.master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="SYSGREEN.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <script>
