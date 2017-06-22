@@ -1,0 +1,69 @@
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll.config
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\SYSGREEN.pdb
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\WebGrease.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.xml
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.pdb
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.xml
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.csprojResolveAssemblyReference.cache
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.dll
+c:\users\thucdc\documents\visual studio 2013\Projects\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.pdb
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll.config
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.pdb
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\WebGrease.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.xml
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.pdb
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.xml
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.csprojResolveAssemblyReference.cache
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.dll
+C:\Users\win\Source\Repos\SysGreen\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.csprojResolveAssemblyReference.cache
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\obj\Debug\SYSGREEN.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll.config
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\SYSGREEN.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Common.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\DataObject.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Servies.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\WebGrease.dll
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Common.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\DataObject.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Servies.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\System.Web.Optimization.xml
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Antlr3.Runtime.pdb
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Newtonsoft.Json.xml
+C:\Users\THUCDC\Source\Repos\SysGreen2\SysGreen-DevSysGreen\SYSGREEN\SYSGREEN\bin\Microsoft.AspNet.FriendlyUrls.xml
